@@ -1,17 +1,16 @@
-# Snapster Bot
+# Sn4pst3r Bot
 
-SnapsterBot is an asynchronous Python bot built to interact with the Snapster API. It allows users to automate tasks such as claiming daily bonuses, mining bonuses, league bonuses, and completing quests.
+Sn4pst3rBot is an asynchronous Python bot built to interact with the Sn4pst3r API. It allows users to automate tasks such as claiming daily bonuses, mining bonuses, league bonuses, and completing quests.
 
 [TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
 
-## What is Snapster ?
-***Snapster - Trading App :*** easy-to-use telegram app for discovering & trading hot tokens Snapster Points campaign is live with $SNAPS: Airdrop confirmed! Make sure you follow us on our telegram channel and group to get the latest information about this airdrop.
+## What is Sn4pst3r ?
+***Sn4pst3r - Trading App :*** easy-to-use telegram app for discovering & trading hot tokens Snapster Points campaign is live with $SNAPS: Airdrop confirmed! Make sure you follow us on our telegram channel and group to get the latest information about this airdrop.
 
 ### Register : https://t.me/snapster_bot?start=ref_K0S1qpNL2RIGlx
 
 ## Features
 
-- **Extract user data**: Retrieves user data based on their Telegram ID.
 - **Claim daily bonus**: Automates the daily bonus claiming process.
 - **Claim league bonus**: Automatically claims league bonus if it's unclaimed.
 - **Claim mining bonus**: Claims bonuses for mining.
@@ -88,11 +87,11 @@ username:password@host:port
     before starting the bot you must have your own initdata / query id telegram! 
 
     - Use PC/Laptop or Use USB Debugging Phone
-    - open the `Snapster bot miniapp`
+    - open the `Sn4pst3r bot miniapp`
     - Inspect Element `(F12)` on the keyboard
     - at the top of the choose "`Application`" 
     - then select "`Session Storage`" 
-    - Select the links "`Snapster`" and "`tgWebAppData`"
+    - Select the links "`Sn4pst3r`" and "`tgWebAppData`"
     - Take the value part of "`tgWebAppData`"
     - take the part that looks like this: 
 
